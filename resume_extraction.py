@@ -39,7 +39,7 @@ print("✅ First 2 resumes saved to SQLite!")
 
 
 # ------------------- CONFIG -------------------
-HUGGINGFACEHUB_API_TOKEN = "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"  # Replace with your Hugging Face token
+HUGGINGFACEHUB_API_TOKEN = ""  # Replace with your Hugging Face token
 os.environ["HUGGINGFACEHUB_API_TOKEN"] = HUGGINGFACEHUB_API_TOKEN
 
 DB_PATH = r"D:\Hackathon\Dataset\smarthire.db"
